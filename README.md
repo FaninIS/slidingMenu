@@ -1,3 +1,4 @@
+![](./banner/Sliding_menu_%2B_scss.png)
 
 # slidingMenu
 
